@@ -20,8 +20,7 @@ This website showcases my skills, projects, and contact information.
 
 ## Contact
 
-- Email: shahrimahaque@email.com  
-- Phone: +880 1978-203890  
+- Email: shahrimahaque@email.com   
 - GitHub: [Shahrima16](https://github.com/Shahrima16)  
 - LinkedIn: [Shahrima Haque](https://www.linkedin.com/in/shahrima-haque-0a015b37b/)
 
